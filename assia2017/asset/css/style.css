@@ -494,7 +494,7 @@ a.navbar-brand {
     font-weight: 700;
     line-height: 50px;
     letter-spacing: 5px;
-    margin-bottom: 55px;
+    margin-bottom: 15px;
     -webkit-animation: bounceIn;
     -moz-animation: rubberBand;
     -o-animation: bounceIn;
@@ -516,7 +516,7 @@ a.navbar-brand {
     font-weight: 300;
     line-height: 35px;
     letter-spacing: 3px;
-    margin-bottom: 55px;
+    margin-bottom: 35px;
     -webkit-animation: bounceInLeft;
     -moz-animation: fadeInLeft;
     -o-animation: fadeInLeft;
