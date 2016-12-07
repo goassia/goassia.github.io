@@ -17,6 +17,7 @@ body {
     text-rendering: optimizeLegibility !important;
     font-smoothing: antialiased !important;
     vertical-align: baseline;
+    padding-top: 70px;
 }
 }
 strong, b {
