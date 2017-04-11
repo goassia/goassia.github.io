@@ -2169,3 +2169,21 @@ div.lecturer{
     line-height: 35px;
     color: #333333;
 }
+
+.my-section-title{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+ol{
+    margin-bottom: 10px !important;
+}
+
+.btn-exlg{
+    font-size:32px;
+    margin-bottom: 12px;
+}
