@@ -2187,3 +2187,16 @@ ol{
     font-size:32px;
     margin-bottom: 12px;
 }
+
+th.title{
+    width: 50%;
+}
+
+th.authors{
+    width: 50%;
+}
+
+.authors em{
+    font-style: normal;
+    text-decoration: underline;
+}
