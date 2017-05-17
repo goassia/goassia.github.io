@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow|Oswald:400,300);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
+
 
 /*------------------------------------------*/
 /*	     01 - General & Basic Styles
@@ -2199,4 +2201,26 @@ th.authors{
 .authors em{
     font-style: normal;
     text-decoration: underline;
+}
+
+.lecture td{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+section.lecture{
+    margin-top: 10px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.lecture div.container{
+    margin-bottom:30px;
+}
+
+div.content{
+font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
+line-height: 1.25;
 }
