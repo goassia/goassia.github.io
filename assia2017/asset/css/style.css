@@ -2225,3 +2225,18 @@ font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Min
 line-height: 1.25;
 font-size: 80%;
 }
+
+.sponsor_class{
+	font-size: 40px !important;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.logo {
+	margin-top:10px;
+	margin-bottom 10px;
+}
+
+img.yahoo {
+	margin: 15px;
+	}
