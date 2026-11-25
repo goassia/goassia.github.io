@@ -48,7 +48,7 @@
 .timetable th,.timetable td{padding:10px 14px;border-bottom:1px solid #ddd;vertical-align:top;overflow-wrap:break-word}
 .timetable th{background:#f0f0f0;font-weight:600;border-top:1px solid #ddd}
 .timetable :is(th,td):first-child{width:1%;white-space:nowrap;font-variant-numeric:tabular-nums}
-.timetable .pending{color:#666}
+.timetable .secondary-activity{color:#666}
 .timetable tbody tr:nth-child(even){background:#f8f8f8}
 .timetable tbody tr:hover{background:#f2f5f7}
 @media(max-width:600px){.timetable th,.timetable td{padding:9px 6px}}
